@@ -1,0 +1,13 @@
+{
+  "config": "hugo.toml,pages.json",
+  "theme": "template",
+  "sample": "exampleSite",
+  "version": "0.167.0",
+  "slug": "loveit",
+  "npm": [],
+  "asset_build": [],
+  "generator": "3.1",
+  "repo": "https://github.com/Yejin-Kim06/Portfolio.git",
+  "baseURL": "https://yejin-kim06.github.io/Portfolio/",
+  "audited": false
+}
